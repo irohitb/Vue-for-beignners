@@ -68,6 +68,9 @@ export default ({ Vue }) => {
 
 [Client Side Authentication](https://quasar-framework.org/guide/app-prefetch-feature.html)
 
+## Speedup the developement with Vue-formly-Quasar 
+
+[Vue-formly-Quasar](https://github.com/decision6/vue-formly-quasar)
 
 ## Actual Quasar Project 
 
